@@ -1,3 +1,6 @@
+// CF 4A Watermelon — https://codeforces.com/problemset/problem/231/A
+// Idea: Just applied simple condition logic
+// Mistake: No mistake
 #include<bits/stdc++.h>
 using namespace std;
 using ll = long long;

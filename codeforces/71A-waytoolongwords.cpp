@@ -1,4 +1,4 @@
-// CF 4A Watermelon — https://codeforces.com/problemset/problem/4/A
+// CF 4A Watermelon — https://codeforces.com/problemset/problem/71/A
 // Idea:I learned that string also behaves like array with different output for different functions. 
 // Mistake: Remember the condition is less than or equal to, words greater than 10 are too long words. 
 #include<bits/stdc++.h>
